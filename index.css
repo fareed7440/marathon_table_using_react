@@ -1,0 +1,41 @@
+body{
+
+    background-color:transparent;
+    font-style: italic;
+    font-size: 4em;
+    color: white;
+}
+table{
+
+    margin:60px auto;
+    background-color:slategrey
+}
+button{
+
+    background-color: yellow;
+    font-size: 1em;
+}
+a{
+
+font-size: 1em;
+color: yellow;
+border: 2px solid palegreen;
+background-color: blue;
+text-indent: 10px;
+margin-left: 70px
+
+}
+td,table,tr,thead{
+
+border: 1px solid lawngreen;
+
+
+}
+td:hover{
+
+    background-color: blue;
+}
+thead:hover{
+
+    background-color: blue;
+
